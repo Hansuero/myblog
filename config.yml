@@ -1,4 +1,4 @@
-baseURL: http://hansuero.github.io/myblog/
+baseURL: http://hansuero.github.io/myblog
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
